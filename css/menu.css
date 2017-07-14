@@ -1,0 +1,47 @@
+body {
+  padding-top: 20px;
+  padding-bottom: 0px;
+}
+
+.navbar {
+  margin-bottom: 20px;
+}
+
+.custom-navbar {
+
+    background-color: #3197d6;
+    border: none;
+}
+
+
+.navbar-default .navbar-brand.custom-butten {
+      color: rgba(255,255,255,.75);
+  }
+
+
+.navbar-default .navbar-nav>.active>a.custom-butten {
+      color: rgba(255,255,255,.75);
+      background-color: transparent;
+
+}
+
+.navbar-default .navbar-nav>li>a.custom-butten {
+    color: rgba(255,255,255,.75);
+}
+
+.navbar-default .navbar-nav>li>a.custom-butten {
+    color: rgba(255,255,255,.75); 
+    background-color: #3197d6;
+}
+
+.navbar-default .navbar-nav>.open>a:hover.custom-butten {
+    color: rgba(255,255,255,.75); 
+    background-color: transparent;
+}
+
+
+
+
+
+
+

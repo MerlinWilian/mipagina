@@ -1,5 +1,7 @@
 <?php $this->load->view('template/header'); ?>
 
+    <link href="../../css/container.css" rel="stylesheet">
+
     <!-- Carousel
     ================================================== -->
     <div id="myCarousel" class="carousel slide" data-ride="carousel">

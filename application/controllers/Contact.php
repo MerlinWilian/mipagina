@@ -1,7 +1,7 @@
 <?php
 defined('BASEPATH') OR exit('No direct script access allowed');
 
-class AnotherAction extends CI_Controller {
+class Contact extends CI_Controller {
 
 	/**
 	 * Index Page for this controller.
@@ -20,6 +20,6 @@ class AnotherAction extends CI_Controller {
 	 */
 	public function index()
 	{
-		$this->load->view('anotherAction/anotherAction');
+		$this->load->view('contact/contact');
 	}
 }
