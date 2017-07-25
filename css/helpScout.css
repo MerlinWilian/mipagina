@@ -1,10 +1,10 @@
-header {
-	background: #3197d6; 
-	
-}
 
 .o-container{
 	
-    background: red;
+    background-color: #3197d6;
+    min-height: 750px;
+    max-height: none;
+    margin: 0px;
+
 }
 	

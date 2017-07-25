@@ -1,5 +1,8 @@
 <?php $this->load->view('template/header'); ?>
 
+</div>
+
+
     <link href="../../css/container.css" rel="stylesheet">
 
     <!-- Carousel
@@ -124,5 +127,7 @@
       <hr class="featurette-divider">
 
       <!-- /END THE FEATURETTES -->
+
+      
 
 <?php $this->load->view('template/footer'); ?>

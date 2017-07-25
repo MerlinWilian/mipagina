@@ -1,4 +1,5 @@
 <?php $this->load->view('template/header'); ?>
+</div>
 
 
 
